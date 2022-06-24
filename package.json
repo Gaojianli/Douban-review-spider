@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "jquery": "^3.5.1",
-    "jsdom": "^16.2.2",
+    "jsdom": "^16.5.0",
     "node-fetch": "^2.6.7",
     "typescript": "^3.9.3"
   },
